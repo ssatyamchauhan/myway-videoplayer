@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myway-videoplayer/static/css/main.930e1ee9.chunk.css",
+    "main.js": "/myway-videoplayer/static/js/main.062aa9bf.chunk.js",
+    "main.js.map": "/myway-videoplayer/static/js/main.062aa9bf.chunk.js.map",
+    "runtime-main.js": "/myway-videoplayer/static/js/runtime-main.b0185d3f.js",
+    "runtime-main.js.map": "/myway-videoplayer/static/js/runtime-main.b0185d3f.js.map",
+    "static/js/2.7a9a5bea.chunk.js": "/myway-videoplayer/static/js/2.7a9a5bea.chunk.js",
+    "static/js/2.7a9a5bea.chunk.js.map": "/myway-videoplayer/static/js/2.7a9a5bea.chunk.js.map",
+    "index.html": "/myway-videoplayer/index.html",
+    "precache-manifest.6c083afef6db0f7afe9cf12eb452afce.js": "/myway-videoplayer/precache-manifest.6c083afef6db0f7afe9cf12eb452afce.js",
+    "service-worker.js": "/myway-videoplayer/service-worker.js",
+    "static/css/main.930e1ee9.chunk.css.map": "/myway-videoplayer/static/css/main.930e1ee9.chunk.css.map",
+    "static/js/2.7a9a5bea.chunk.js.LICENSE.txt": "/myway-videoplayer/static/js/2.7a9a5bea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0185d3f.js",
+    "static/js/2.7a9a5bea.chunk.js",
+    "static/css/main.930e1ee9.chunk.css",
+    "static/js/main.062aa9bf.chunk.js"
+  ]
+}
